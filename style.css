@@ -1,0 +1,1899 @@
+body {
+    background-color: white;
+    margin: 0;
+}
+.header {
+    width: 100%;
+    height:64px;
+    background-color: white;
+    
+}
+.container {
+    
+    display:flex;
+    justify-content: space-around;
+}
+.one,.two,.three {
+    width: 100%;
+    height:64px;
+   
+   
+   
+}
+.one {
+    width: 200px;
+    height:64px;
+    margin-left: 30px;
+    
+}
+.three {
+    width: 123px;
+    margin-right: 23px;
+}
+
+.image{
+    width: 167px;
+    margin-top: -15px;
+}
+.g {
+    
+    width: 79px;
+    height: 64px;
+}
+
+.a {
+    width: 67px;
+    height: 64px;
+    
+}
+
+.m {
+    width: 80px;
+    height: 64px;
+    
+}
+
+.b {
+    width: 73px;
+    height: 64px;
+    
+}
+
+.c {
+    width: 89px;
+    height: 64px;
+    
+}
+
+.elements {
+    text-align: center;
+}
+
+.image{
+    width: 167px;
+    margin-top: -15px;
+}
+
+.two {
+    display:flex;
+    justify-items: center;
+    flex-direction: row;
+    margin-left: 25px;
+
+}
+
+.sea {
+   
+    width: 24px;
+    height: 24px;
+}
+
+.qm {
+   
+    width: 24px;
+    height: 24px;
+}
+
+.ssim {
+    
+    width: 24px;
+    height: 24px;
+}
+
+.symble {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    justify-content:space-between;
+
+}
+
+.search {
+    width: 24px;
+    height: 24px;
+}
+
+.avatar {
+    width: 32px;
+    height: 32px;
+    margin-left: -4px;
+    margin-top: -4px;
+}
+
+<!-- head logo end -->{
+
+<!-- window elements start -->
+}
+
+.device-container {
+    display: flex;
+    background-color: white;
+    width: 100%;
+    height: 35px;
+    justify-content: space-around;
+}
+.device-element {
+    display: flex;
+    background-color: white;
+    width: 90%;
+    height: 35px;
+    gap: 10px;
+}
+
+
+.windows {
+    display: flex;
+    justify-content: center;
+    height: 35px;
+    width: 124px;
+    border:1px solid green;
+    border-radius: 62px;
+}
+
+.element {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    height: 35px;
+    width: 124px;
+}
+
+.window {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90px;
+    height: 30px;
+    
+}
+
+.sy {
+    
+    margin-top: 9px;
+}
+.windows-img {
+    width: 17px;
+    height: 17px;
+}
+
+.win {
+    display: inline-block;
+    width: 62px;
+    height: 19px;
+    font: inherit;
+    font-size: 100%;
+
+}
+
+.phone {
+    display: flex;
+    justify-content: center;
+    width: 105px;
+    height: 35px
+}
+    
+.element1 {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    height: 35px;
+    width: 105px;
+}
+    
+.pho {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 70px;
+    height: 31px;
+    margin-top: 3px;
+}
+    
+.sy1 {
+    width: 17px;
+    height: 17px;
+    
+}
+
+.phone-img {
+    width: 17px;
+    height: 17px;
+}
+    
+.ph {
+    display: inline-block;
+    width: 42px;
+    height: 19px;
+    font: inherit;
+    font-size: 100%;  
+}
+
+.tablet {
+    display: flex;
+    justify-content: center;
+    width: 103px;
+    height: 35px
+}
+    
+.element3 {
+    display: flex;
+    justify-content: center;
+    
+    height: 35px;
+    width: 103px;
+}
+    
+.tab {
+    display: flex;
+    justify-content: space-around;
+   
+    align-items: center;
+    width: 70px;
+    height: 31px;
+    margin-top: 3px;
+}
+    
+.sy1 {
+    width: 17px;
+    height: 17px;
+}
+
+.taplet-img {
+    width: 17px;
+    height: 17px;
+}
+    
+.ta {
+    display: inline-block;
+    width: 42px;
+    height: 19px;
+    font: inherit;
+    font-size: 100%;  
+}
+
+.tv {
+    display: flex;
+    justify-content: center;
+    width: 80px;
+    height: 35px
+}
+    
+.element4 {
+    display: flex;
+    justify-content: center;
+    
+    height: 35px;
+    width: 80px;
+}
+    
+.tv-item {
+    display: flex;
+    justify-content: space-around;
+    
+    align-items: center;
+    width: 46px;
+    height: 31px;
+    margin-top: 3px;
+}
+    
+.tv-sy {
+    width: 17px;
+    height: 17px;
+}
+
+.tv-img {
+    width: 17px;
+    height: 17px;
+}
+    
+.tele {
+    display: inline-block;
+    width: 18px;
+    height: 19px;
+    font: inherit;
+    font-size: 100%;  
+}
+
+.chromebook {
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    height: 35px
+}
+    
+.crome-elem {
+    display: flex;
+    justify-content: center;
+    
+    height: 35px;
+    width: 150px;
+}
+    
+.ch-item {
+    display: flex;
+    justify-content: space-around;
+    
+    align-items: center;
+    width: 120px;
+    height: 31px;
+    margin-top: 3px;
+}
+    
+.ch-sy {
+    width: 17px;
+    height: 17px;
+}
+
+.ch-img {
+    width: 17px;
+    height: 17px;
+}
+    
+.chrome {
+    display: inline-block;
+    width: 88px;
+    height: 19px;
+    font: inherit;
+    font-size: 100%;  
+}
+
+.watch {
+    display: flex;
+    justify-content: center;
+    width: 105px;
+    height: 35px
+}
+    
+.wat-elem {
+    display: flex;
+    justify-content: center;
+    
+    height: 35px;
+    width: 105px;
+}
+    
+.wat-item {
+    display: flex;
+    justify-content: space-around;
+    
+    align-items: center;
+    width: 71px;
+    height: 31px;
+    margin-top: 3px;
+}
+    
+.wat-sy {
+    width: 17px;
+    height: 17px;
+}
+
+.wat-img {
+    width: 17px;
+    height: 17px;
+}
+    
+.watchs {
+    display: inline-block;
+    width: 43px;
+    height: 19px;
+    font: inherit;
+    font-size: 100%;  
+}
+
+       
+
+
+.head-con {
+    width: 100%;
+    height: 65px;
+    
+    margin-top: 35px
+}
+
+.head-con1 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 100%;
+    height: 65px;
+    margin-left: 60px;
+}
+
+.conta-1 {
+    width: 90%;
+    height: 28px;
+    
+}
+.head {
+    background-color: white;
+    width: 371px;
+    height: 28px;
+    font-size: 158%;
+    
+}
+
+.conta-2 {
+    width: 90%;
+    height: 16px;
+    background-color: white;
+}
+
+.pc {
+    background-color: white;
+    width: 146px;
+    height: 16px;
+    font-size: 84%;
+}
+
+.conta-3 {
+    width: 90%;
+    height: 21px;
+    
+}
+
+         /* game detail */
+
+.photo-container {
+    display: flex;
+    justify-content: space-around;
+    width: 1400px;
+    height: 348px;
+    
+    margin-top: 10px;
+}
+
+
+.frame1,.frame2,.frame3{
+    width: 406px;
+    height: 324px;
+    
+    border: 1px solid white;
+    margin-top: 24px;
+     /* flex: 1; */
+}
+
+.photos {
+    display: flex;
+    justify-content: space-around;
+    width: 92%;
+    height: 348 px;
+    
+    margin-left: -2px;
+}
+
+.frame1 {
+    display: flex;
+    flex-direction: column;
+    width:  ;
+    height:  ;
+    
+    gap: 15px;
+}
+
+.pho-fra1 {
+    width: 406px;
+    height: 228px;
+    
+}
+.cat {
+    width: 406px;
+    height: 228px;
+}
+
+.name-fra1 {
+    display: flex;
+    width: 406px;
+    height: 64px;
+    
+}
+.app {
+    border: 1px solid white;
+    width: 64px;
+    height: 64px;
+}
+
+.name {
+    border: 1px solid white;
+    width: 326px;
+    height: 64px;
+    margin-left: 10px;
+}
+
+.app-img {
+    width: 64px;
+    height: 64px;
+}
+
+.tom {
+    width: 326px;
+    height: 24px;
+}
+.a-n {
+    width: 125px;
+    height: 24px;
+}
+
+.pet {
+    width: 326px;
+    height: 20px;
+}
+
+.s-p {
+    display: flex;
+    width: 107px;
+    height: 20px;
+}
+
+.sim {
+    width: 68px;
+    height: 20px;
+}
+
+.dot {
+    width: 4px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.p {
+    width: 21px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.rate {
+    width: 326px;
+    height: 20px;
+}
+
+.frame2 {
+    display: flex;
+    flex-direction: column;
+    width:  ;
+    height:  ;
+    
+    gap: 15px;
+}
+
+.pho-fra2 {
+    width: 406px;
+    height: 228px;
+    
+}
+.snake {
+    width: 406px;
+    height: 228px;
+}
+
+.name-fra2 {
+    display: flex;
+    width: 406px;
+    height: 64px;
+    
+}
+.app1 {
+    border: 1px solid white;
+    width: 64px;
+    height: 64px;
+}
+
+.name1 {
+    border: 1px solid white;
+    width: 326px;
+    height: 64px;
+    margin-left: 10px;
+}
+
+.app-img1 {
+    width: 64px;
+    height: 64px;
+}
+
+.worm {
+    width: 326px;
+    height: 24px;
+}
+.a-n1 {
+    width: 223px;
+    height: 24px;
+}
+
+.game {
+    width: 326px;
+    height: 20px;
+}
+
+.a-g {
+    display: flex;
+    width: 107px;
+    height: 20px;
+}
+
+.act {
+    width: 41px;
+    height: 20px;
+}
+
+.dot1 {
+    width: 4px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.g {
+    width: 53px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.rate1 {
+    display: flex;
+    width: 326px;
+    height: 20px;
+    
+}
+
+.four1 {
+    width: 20px;
+    height: 20px;
+}
+
+.star1 {
+    width: 12px;
+    height: 12px;
+}
+
+.star-ime1 {
+    width: 12px;
+    height: 12px;
+}
+
+.frame3 {
+    width:  ;
+    height:  ;
+    
+}
+
+
+.frame3 {
+    display: flex;
+    flex-direction: column;
+    width:  ;
+    height:  ;
+    
+    gap: 15px;
+}
+
+.pho-fra3 {
+    width: 406px;
+    height: 228px;
+    
+}
+.race-car {
+    width: 406px;
+    height: 228px;
+}
+
+.name-fra3 {
+    display: flex;
+    width: 406px;
+    height: 64px;
+    
+}
+.app2 {
+    border: 1px solid white;
+    width: 64px;
+    height: 64px;
+}
+
+.name2 {
+    border: 1px solid white;
+    width: 326px;
+    height: 64px;
+    margin-left: 10px;
+}
+
+.app-img2 {
+    width: 64px;
+    height: 64px;
+}
+
+.car {
+    width: 326px;
+    height: 24px;
+}
+.rc {
+    width: 172px;
+    height: 24px;
+}
+
+.stund {
+    width: 326px;
+    height: 20px;
+}
+
+.race {
+    display: flex;
+    width: 172px;
+    height: 20px;
+}
+
+.racing {
+    width: 44px;
+    height: 20px;
+}
+
+.dot2 {
+    width: 4px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.sd {
+    width: 85px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.rate2 {
+    display: flex;
+    width: 326px;
+    height: 20px;
+    
+}
+
+.four2 {
+    width: 20px;
+    height: 20px;
+}
+
+.star2 {
+    width: 12px;
+    height: 12px;
+}
+
+.star-ime2 {
+    width: 12px;
+    height: 12px;
+}
+
+
+
+
+.photo-containers2 {
+    display: flex;
+    justify-content: space-around;
+    width: 1394px;
+    height: 348px;
+    
+    margin-top: 10px;
+}
+
+.frame1s2,.frame2s2,.frame3s2{
+    width: 406px;
+    height: 324px;
+    
+    border: 1px solid white;
+    margin-top: 24px;
+     /* flex: 1; */
+}
+
+.photoss2 {
+    display: flex;
+    justify-content: space-around;
+    width: 92%;
+    height: 348 px;
+    
+    margin-left: -2px;
+}
+
+
+
+
+.head-cons2 {
+    width: 100%;
+    height: 65px;
+    
+    margin-top: 35px
+}
+
+
+
+
+.head-con1s2 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 100%;
+    height: 65px;
+    margin-left: 60px;
+}
+
+.conta-1s2 {
+    width: 90%;
+    height: 28px;
+    
+}
+.heads2s2 {
+    
+    width: 318px;
+    height: 28px;
+    font-size: 154%;
+    
+}
+
+.conta-2s2 {
+    width: 90%;
+    height: 16px;
+    
+}
+
+.pcs2 {
+    
+    width: 265px;
+    height: 15px;
+    font-size: 84%;
+}
+
+.conta-3s2 {
+    width: 90%;
+    height: 21px;
+    
+}
+
+
+
+.photoss2 {
+    display: flex;
+    justify-content: space-around;
+    width: 92%;
+    height: 348 px;
+    
+    margin-left: -2px;
+}
+
+.frame1s2 {
+    display: flex;
+    flex-direction: column;
+    width:  ;
+    height:  ;
+    
+    gap: 15px;
+}
+
+.pho-fra1s2 {
+    width: 406px;
+    height: 228px;
+    
+}
+.free-fire {
+    width: 406px;
+    height: 228px;
+}
+
+.name-fra1s2 {
+    display: flex;
+    width: 406px;
+    height: 64px;
+    
+}
+.apps2 {
+    border: 1px solid white;
+    width: 64px;
+    height: 64px;
+}
+
+.names2 {
+    border: 1px solid white;
+    width: 326px;
+    height: 64px;
+    margin-left: 10px;
+}
+
+.app-imgs2 {
+    width: 64px;
+    height: 64px;
+}
+
+.free {
+    width: 326px;
+    height: 24px;
+}
+.a-ns2 {
+    width: 100px;
+    height: 24px;
+}
+
+.shooter {
+    width: 326px;
+    height: 20px;
+}
+
+.a-t {
+    display: flex;
+    width: 158px;
+    height: 20px;
+}
+
+.action {
+    width: 41px;
+    height: 20px;
+}
+
+.dots2 {
+    width: 4px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.tac {
+    width: 103px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.rates2 {
+    display: flex;
+    width: 326px;
+    height: 20px;
+    
+}
+
+.fours2 {
+    width: 20px;
+    height: 20px;
+}
+
+.stars2 {
+    width: 12px;
+    height: 12px;
+}
+
+.star-imes2 {
+    width: 12px;
+    height: 12px;
+}
+
+
+.frame2s2 {
+    display: flex;
+    flex-direction: column;
+    width:  ;
+    height:  ;
+   
+    gap: 15px;
+}
+
+.pho-fra2s2 {
+    width: 406px;
+    height: 228px;
+    
+}
+.clash {
+    width: 406px;
+    height: 228px;
+}
+
+.name-fra2s2 {
+    display: flex;
+    width: 406px;
+    height: 64px;
+    
+}
+.app1s2 {
+    border: 1px solid white;
+    width: 64px;
+    height: 64px;
+}
+
+.name1s2 {
+    border: 1px solid white;
+    width: 326px;
+    height: 64px;
+    margin-left: 10px;
+}
+
+.app-img1s2 {
+    width: 64px;
+    height: 64px;
+}
+
+.clans {
+    width: 326px;
+    height: 24px;
+}
+.a-n1s2 {
+    width: 103px;
+    height: 24px;
+}
+
+.battile {
+    display: flex;
+    width: 326px;
+    height: 20px;
+}
+
+.sbb {
+    display: flex;
+    width: 168px;
+    height: 20px;
+}
+
+.str {
+    width: 53px;
+    height: 20px;
+}
+
+.dot1s2 {
+    width: 4px;
+    height: 20px;
+    margin-left: 5px;
+   
+}
+
+.buil {
+    width: 100px;
+    height: 20px;
+    margin-left: 5px;
+
+    
+}
+
+.rate2s2 {
+    display: flex;
+    width: 326px;
+    height: 20px;
+    
+}
+
+.four2s2 {
+    width: 20px;
+    height: 20px;
+}
+
+.star2s2 {
+    width: 12px;
+    height: 12px;
+}
+
+.star-ime2s2 {
+    width: 12px;
+    height: 12px;
+}
+
+.frame3s2 {
+    width:  ;
+    height:  ;
+   
+}
+
+.frame3s2 {
+    display: flex;
+    flex-direction: column;
+    width:  ;
+    height:  ;
+    
+    gap: 15px;
+}
+
+.pho-fra3s2 {
+    width: 406px;
+    height: 228px;
+    
+}
+.chess {
+    width: 406px;
+    height: 228px;
+}
+
+.name-fra3s2 {
+    display: flex;
+    width: 406px;
+    height: 64px;
+}
+    
+.app2s2 {
+    border: 1px solid white;
+    width: 64px;
+    height: 64px;
+}
+
+.name2s2 {
+    border: 1px solid white;
+    width: 326px;
+    height: 64px;
+    margin-left: 10px;
+}
+
+.app-img2s2 {
+    width: 64px;
+    height: 64px;
+}
+
+.chesses {
+    width: 326px;
+    height: 24px;
+}
+.a-n2s2 {
+    width: 161px;
+    height: 24px;
+}
+
+.boa {
+    width: 326px;
+    height: 20px;
+}
+
+.play {
+    display: flex;
+    width: 75px;
+    height: 20px;
+}
+
+.board {
+    width: 38px;
+    height: 20px;
+}
+
+.dot2s2 {
+    width: 4px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.ch {
+    width: 40px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.rate2s2 {
+    display: flex;
+    width: 326px;
+    height: 20px;
+    
+}
+
+.four2 {
+    width: 20px;
+    height: 20px;
+}
+
+.star2s2 {
+    width: 12px;
+    height: 12px;
+}
+
+.star-ime2s2 {
+    width: 12px;
+    height: 12px;
+}
+
+.beta-frame {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 380px;
+    margin-top: 35px;
+    
+    
+}
+
+.beta {
+    display: flex;
+    width: 90%;
+    height: 356px;
+    
+    margin-top: 15px
+    
+}
+
+.text {
+    width: 618px;
+    height: 356px;
+    background-color: #171717;
+    
+}
+
+.photo {
+    width: 633px;
+    height: 356px;
+    
+}
+
+.text1 {
+    width: 585px;
+    height: 88px;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    line-height: 2.75rem;
+    font-size: 2.25rem;
+    letter-spacing: 0;
+    font-weight: 500;
+    color:white;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+
+.text2 {
+    width: 585px;
+    height: 32px;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    line-height: 2rem;
+    font-size: 1.5rem;
+    letter-spacing: 0;
+    font-weight: 400;
+    margin-top: 12px;
+    color:white;
+    margin-left: 60px;
+}
+
+
+.beta-img {
+    633px;
+    height: 356px;
+
+}
+
+
+.head-cons3 {
+    width: 100%;
+    height: 65px;
+    
+    margin-top: 35px
+}
+
+.head-con1s3 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 100%;
+    height: 65px;
+    margin-left: 60px;
+}
+
+.conta-1s3 {
+    width: 90%;
+    height: 28px;
+    
+}
+.heads2s3 {
+    border: 0;
+    color: inherit;
+    font: inherit;
+    font-size: 160%;
+   
+    vertical-align: baseline;
+    
+}
+
+.conta-2s3 {
+    width: 90%;
+    height: 16px;
+    
+}
+
+.pcs3 {
+   
+    
+    font: inherit;
+    font-size: 95%;
+    
+    vertical-align: baseline
+}
+
+.conta-3s3 {
+    width: 90%;
+    height: 21px;
+    
+}
+
+
+
+.photo-containers23 {
+    display: flex;
+    justify-content: space-around;
+    width: 1394px;
+    height: 348px;
+    
+    margin-top: 10px;
+}
+
+.frame1s23,.frame2s23,.frame3s23{
+    width: 406px;
+    height: 324px;
+    
+    border: 1px solid white;
+    margin-top: 24px;
+     /* flex: 1; */
+}
+
+.photoss23 {
+    display: flex;
+    justify-content: space-around;
+    width: 92%;
+    height: 348 px;
+    
+    margin-left: -2px;
+}
+
+
+
+
+.head-cons23 {
+    width: 100%;
+    height: 65px;
+    
+    margin-top: 35px
+}
+
+
+
+
+.head-con1s23 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 100%;
+    height: 65px;
+    margin-left: 60px;
+}
+
+.conta-1s23 {
+    width: 90%;
+    height: 28px;
+    
+}
+.heads2s23 {
+    
+    width: 318px;
+    height: 28px;
+    font-size: 154%;
+    
+}
+
+.conta-2s23 {
+    width: 90%;
+    height: 16px;
+    
+}
+
+.pcs23 {
+    
+    width: 265px;
+    height: 15px;
+    font-size: 84%;
+}
+
+.conta-3s23 {
+    width: 90%;
+    height: 21px;
+    
+}
+
+
+
+.photoss23 {
+    display: flex;
+    justify-content: space-around;
+    width: 92%;
+    height: 348 px;
+    
+    margin-left: -2px;
+}
+
+.frame1s23 {
+    display: flex;
+    flex-direction: column;
+    width:  ;
+    height:  ;
+    
+    gap: 15px;
+}
+
+.pho-fra1s23 {
+    width: 406px;
+    height: 228px;
+    
+}
+.free-fire3 {
+    width: 406px;
+    height: 228px;
+}
+
+.name-fra1s23 {
+    display: flex;
+    width: 406px;
+    height: 64px;
+    
+}
+.apps23 {
+    border: 1px solid white;
+    width: 64px;
+    height: 64px;
+}
+
+.names23 {
+    border: 1px solid white;
+    width: 326px;
+    height: 64px;
+    margin-left: 10px;
+}
+
+.app-imgs23 {
+    width: 64px;
+    height: 64px;
+}
+
+.free3 {
+    width: 326px;
+    height: 24px;
+}
+.a-ns23 {
+    width: px;
+    height: 24px;
+}
+
+.shooter3 {
+    width: 326px;
+    height: 20px;
+}
+
+.a-t3 {
+    display: flex;
+    width: px;
+    height: 20px;
+}
+
+.action3 {
+    width: px;
+    height: 20px;
+}
+
+.dots23 {
+    width: 4px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.tac3 {
+    width: px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.rates23 {
+    display: flex;
+    width: 326px;
+    height: 20px;
+    
+}
+
+.fours23 {
+    width: 20px;
+    height: 20px;
+}
+
+.stars23 {
+    width: 12px;
+    height: 12px;
+}
+
+.star-imes23 {
+    width: 12px;
+    height: 12px;
+}
+
+
+.frame2s23 {
+    display: flex;
+    flex-direction: column;
+    width:  ;
+    height:  ;
+    
+    gap: 15px;
+}
+
+.pho-fra2s23 {
+    width: 406px;
+    height: 228px;
+    
+}
+.clash3 {
+    width: 406px;
+    height: 228px;
+}
+
+.name-fra2s23 {
+    display: flex;
+    width: 406px;
+    height: 64px;
+    
+}
+.app1s23 {
+    border: 1px solid white;
+    width: 64px;
+    height: 64px;
+}
+
+.name1s23 {
+    border: 1px solid white;
+    width: 326px;
+    height: 64px;
+    margin-left: 10px;
+}
+
+.app-img1s23 {
+    width: 64px;
+    height: 64px;
+}
+
+.clans3 {
+    width: 326px;
+    height: 24px;
+}
+.a-n1s23 {
+    width: px;
+    height: 24px;
+}
+
+.battile3 {
+    display: flex;
+    width: 326px;
+    height: 20px;
+}
+
+.sbb3 {
+    display: flex;
+    width: px;
+    height: 20px;
+}
+
+.str3 {
+    width: px;
+    height: 20px;
+}
+
+.dot1s23 {
+    width: px;
+    height: 20px;
+    margin-left: 5px;
+   
+}
+
+.buil3 {
+    width: px;
+    height: 20px;
+    margin-left: 5px;
+
+    
+}
+
+.rate2s23 {
+    display: flex;
+    width: 326px;
+    height: 20px;
+    
+}
+
+.four2s23 {
+    width: 20px;
+    height: 20px;
+}
+
+.star2s23 {
+    width: 12px;
+    height: 12px;
+}
+
+.star-ime2s23 {
+    width: 12px;
+    height: 12px;
+}
+
+.frame3s2 {
+    width:  ;
+    height:  ;
+    
+}
+
+.frame3s23 {
+    display: flex;
+    flex-direction: column;
+    width:  ;
+    height:  ;
+   
+    gap: 15px;
+}
+
+.pho-fra3s23 {
+    width: 406px;
+    height: 228px;
+    
+}
+.chess3 {
+    width: 406px;
+    height: 228px;
+}
+
+.name-fra3s23 {
+    display: flex;
+    width: 406px;
+    height: 64px;
+    
+}
+.app2s23 {
+    border: 1px solid white;
+    width: 64px;
+    height: 64px;
+}
+
+.name2s23 {
+    border: 1px solid white;
+    width: 326px;
+    height: 64px;
+    margin-left: 10px;
+}
+
+.app-img2s23 {
+    width: 64px;
+    height: 64px;
+}
+
+.chesses {
+    width: 326px;
+    height: 24px;
+}
+.a-n2s23 {
+    width: px;
+    height: 24px;
+}
+
+.boa3 {
+    width: 326px;
+    height: 20px;
+}
+
+.play3 {
+    display: flex;
+    width: px;
+    height: 20px;
+}
+
+.board3 {
+    width: ;
+    height: 20px;
+}
+
+.dot2s23 {
+    width: 4px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.ch3 {
+    width: ;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.rate2s23 {
+    display: flex;
+    width: 326px;
+    height: 20px;
+    
+}
+
+.four23 {
+    width: 20px;
+    height: 20px;
+}
+
+.star2s2 {
+    width: 12px;
+    height: 12px;
+}
+
+.star-ime2s23 {
+    width: 12px;
+    height: 12px;
+}
+
+
+hr {
+    margin-top: 60px;
+    width: 90%
+    
+}
+
+
+.footer-con {
+    display: flex;
+    width: 100%;
+    height: 361px;
+    border: 1px solid  white;
+    justify-content: center;
+    
+}
+
+.f-eleme {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 361px;
+    border: 1px solid  white;
+}
+
+.elementes {
+    display: flex;
+    width: 1250px;
+    height: 192px;
+    border: 1px solid white;
+    margin-top: 1opx
+
+}
+
+.space {
+    width: 1250px;
+    height: 70px;
+    border: 1px solid  white;
+}
+
+.elemen6 {
+    display: flex;
+    flex-direction: column;
+    width: 266px;
+    height: 192px;
+    border: 1px solid white;
+   
+}
+
+
+.gb {
+    width: 266px;
+    height: 32px;
+}
+
+.ppass {
+    width: 266px;
+    height: 32px;
+}
+
+.ppoint {
+    width: 266px;
+    height: 32px;
+}
+
+.gc {
+    width: 266px;
+    height: 32px;
+}
+
+.red {
+    width: 266px;
+    height: 32px;
+}
+
+.rp {
+    width: 266px;
+    height:32px;
+}
+
+.elemen3 {
+    width: 960px;
+    height: 192px;
+    border: 1px solid  white;
+    margin-left: 20px;
+}
+
+.kf {
+    width: 266px;
+    height:32px;
+}
+
+.pg {
+    width: 266px;
+    height:32px;
+}
+
+.fs {
+    width: 266px;
+    height:32px;
+}
+
+.lower-con {
+    display: flex;
+    width: 1250px;
+    height: 40px;
+    border: 1px solid white;
+    margin-top: 53px;
+    gap:15px
+}
+
+.tof {
+    width: 90px;
+    height:32px;
+    margin-top: 13px;
+    font-size: 82%;
+}
+
+.pri {
+    width: 40px;
+    height:48px;
+    margin-top: 13px;
+    font-size: 82%;
+}
+
+.agp {
+    width: 102px;
+    height:48px;
+    margin-top: 13px;
+    font-size: 82%;
+}
+
+.dev {
+    width: 62px;
+    height:48px;
+    margin-top: 13px;
+    font-size: 82%;
+}
+
+.gs {
+    width: 72px;
+    height:48px;
+    margin-top: 13px;
+    font-size: 82%;
+}
+
+
+.all {
+    width: 124px;
+    height:48px;
+    margin-top: 13px;
+    font-size: 82%;
+}
+
+.ind {
+    display: flex;
+    width: 111px;
+    height:48px;
+    margin-top: 13px;
+    font-size: 82%;
+}
+
+.in {
+    margin-left: 556px;
+    width: 28px;
+    height:18px;
+}
+
+.in-tex {
+    width: 80px;
+    height:48px;
+    margin-left: 4px;
+    
+}
+.flag {
+    margin-top: 0px;
+    width: 24px;
+    height:18px;
+}
